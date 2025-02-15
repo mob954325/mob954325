@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob954325&hide=ShaderLab)](https://github.com/mob954325/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob954325&hide=ShaderLab&layout=compact)](https://github.com/mob954325/github-readme-stats)
 
 
 <!--
