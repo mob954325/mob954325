@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob954325&hide=ShaderLab)](https://github.com/mob954325/github-readme-stats)
+
+
 <!--
 **mob954325/mob954325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
