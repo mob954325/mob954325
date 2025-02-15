@@ -1,7 +1,4 @@
-## Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob954325&hide=ShaderLab&layout=compact)](https://github.com/mob954325/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob954325&hide=ShaderLab&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mob954325/github-readme-stats)
 
 <!--
 **mob954325/mob954325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
